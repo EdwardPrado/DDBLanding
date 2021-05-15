@@ -1,4 +1,4 @@
-﻿# DDBLanding
+﻿# D&D Beyond Landing Page Clone
 
  <a href="https://edwardprado.github.io/DDBLanding/">Live View</a>
  
